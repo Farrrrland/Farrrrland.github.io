@@ -4,7 +4,7 @@ title:      "Markdown Test"
 subtitle:   " \"Hello World, Hello md\""
 date:       2022-11-02 00:00:00
 author:     "Farland"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post_bg/post-bg-2015.jpg"
 catalog: true
 tags:
     - Markdown
