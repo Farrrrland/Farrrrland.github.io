@@ -27,3 +27,6 @@ My research interests is distributed machine learning systems (**MLSys**). My cu
 - ROLL Team, "[Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library](../files/roll_report.pdf)", *June 2025*.
 
 - **Yuheng Zhao**<sup>†</sup>, Suyi Li<sup>†</sup>, Tianyuan Wu, Wei Gao, Guangzhen Chen, Jun Yang, Daohe Lu, Si Luo, Chengbo Li, Minchen Yu, Ruichuan Chen, Wei Wang, "ARTOS: Buffer-Centric Data Management for Elastic Reinforcement Learning", *June 2025* (<sup>†</sup>Equal contribution) [[Preprint](../files/ARTOS.pdf)].
+
+## *Personal*
+I enjoy soccer and playing badminton. I am a fan of [FC Bayern München](https://fcbayern.com/). I am also a "Tifosi", a fan of [Scuderia Ferrari HP Formula 1 Team](https://www.ferrari.com/en-EN/formula1).
