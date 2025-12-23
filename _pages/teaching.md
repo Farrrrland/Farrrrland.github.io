@@ -9,3 +9,4 @@ author_profile: true
 
 - COMP 4651 Cloud Computing and Big Data Systems, Spring 2023
 - COMP 3511 Operating System, Fall 2023
+- COMP 1021 Introduction to Computer Science, Fall 2024, Fall 2025
