@@ -9,9 +9,9 @@ redirect_from:
 
 <!-- ## About me -->
 
-I am a fourth-year Ph.D. student in the [Department of Computer Science and Engineering](https://www.cse.ust.hk) at [Hong Kong University of Science and Technology](http://www.ust.hk), supervisd by Prof. [Wei Wang](http://www.cse.ust.hk/~weiwa/). I obtained my B.Sc. degree in Computer Science from [Fudan University](https://www.fudan.edu.cn/main.htm) in 2022.
+I am a fourth-year Ph.D. student in the [Department of Computer Science and Engineering](https://www.cse.ust.hk) at [The Hong Kong University of Science and Technology](http://www.ust.hk), supervised by Prof. [Wei Wang](http://www.cse.ust.hk/~weiwa/). I obtained my B.Sc. degree in Computer Science from [Fudan University](https://www.fudan.edu.cn/main.htm) in 2022.
 
-My research interests is distributed machine learning systems (**MLSys**). My current work focus on reinforcement learning and scalable cloud infrastructure for LLM post-training.
+My research interests include distributed machine learning systems (**MLSys**) and **AI cloud infrastructure**. My current research focuses on **Reinforcement Learning** and scalable cloud infrastructure for **LLM Post-Training**.
 
 
 ## Publications
