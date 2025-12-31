@@ -311,6 +311,8 @@ whitelist:
 sitemap:
   exclude:
     - "/admin/*"
+    - "/googlea0dc93e683dffa91.html"
+    - "/markdown_generator/*"
 
 
 # Archives
