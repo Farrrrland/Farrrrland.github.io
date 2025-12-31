@@ -14,9 +14,9 @@ author_profile: true
 
 ## Preprints
 
-- Wei Gao<sup>†</sup>, **Yuheng Zhao**<sup>†</sup>, Tianyuan Wu<sup>†</sup>, Shaopan Xiong<sup>†</sup>, Weixun Wang<sup>†</sup>, Dakai An, Lunxi Cao, Dilxat Muhtar, Zichen Liu, Haizhou Zhao, Ju Huang, Siran Yang, Yongbin Li, Wenbo Su, Jiamang Wang, Lin Qu, Bo Zheng, Wei Wang, "RollArt: Scaling Agentic RL Training via Disaggregated Infrastructure", *December 2025* [[Preprint](../files/rollart.pdf)].
+- Wei Gao<sup>†</sup>, **Yuheng Zhao**<sup>†</sup>, Tianyuan Wu<sup>†</sup>, Shaopan Xiong<sup>†</sup>, Weixun Wang<sup>†</sup>, Dakai An, Lunxi Cao, Dilxat Muhtar, Zichen Liu, Haizhou Zhao, Ju Huang, Siran Yang, Yongbin Li, Wenbo Su, Jiamang Wang, Lin Qu, Bo Zheng, Wei Wang, "RollArt: Scaling Agentic RL Training via Disaggregated Infrastructure", *December 2025* (<sup>†</sup>Equal contribution) [[Preprint](../files/rollart.pdf)].
 
-- Tianyuan Wu, Lunxi Cao, Yining Wei, Wei Gao, **Yuheng Zhao**, Dakai An, Shaopan Xiong, Zhiqiang Lv, Ju Huang, Siran Yang, Yinghao Yu, Jiamang Wang, Lin Qu, Wei Wang, "RollMux: Phase-Level Multiplexing for Disaggregated RL Post-Training", *December 2025* (<sup>†</sup>Equal contribution) [[Preprint](../files/rollmux.pdf)].
+- Tianyuan Wu, Lunxi Cao, Yining Wei, Wei Gao, **Yuheng Zhao**, Dakai An, Shaopan Xiong, Zhiqiang Lv, Ju Huang, Siran Yang, Yinghao Yu, Jiamang Wang, Lin Qu, Wei Wang, "RollMux: Phase-Level Multiplexing for Disaggregated RL Post-Training", *December 2025* [[Preprint](../files/rollmux.pdf)].
 
 - ROLL Team, "[Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library](../files/roll_report.pdf)", *June 2025*.
 
