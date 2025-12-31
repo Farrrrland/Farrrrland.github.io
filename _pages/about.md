@@ -14,8 +14,7 @@ I am a fourth-year Ph.D. student in the [Department of Computer Science and Engi
 My research interests include distributed machine learning systems (**MLSys**) and **AI cloud infrastructure**. My current research focuses on **Reinforcement Learning** and scalable cloud infrastructure for **LLM Post-Training**.
 
 ## News
-- 12/2025: RollArt released to [arXiv](https://arxiv.org/abs/2512.22560v1).
-- 12/2025: RollMux released to [arXiv](https://arxiv.org/abs/2512.11306).
+- 12/2025: [RollArt](https://arxiv.org/abs/2512.22560v1) and [RollMux](https://arxiv.org/abs/2512.11306) released to arXiv.
 - 12/2025: RollPacker is accepted by **[NSDI 2026](https://www.usenix.org/conference/nsdi26)** 🎉🎉🎉
 - 09/2025: RollPacker released to [arXiv](https://arxiv.org/abs/2509.21009).  
 - 03/2025: Excited to start my internship @ Alibaba with [ROLL](https://alibaba.github.io/ROLL/) team!
