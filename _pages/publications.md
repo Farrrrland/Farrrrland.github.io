@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Publications
+## Conference Papers
 
 - Wei Gao<sup>†</sup>, **Yuheng Zhao**<sup>†</sup>, Dakai An, Tianyuan Wu, Lunxi Cao, Shaopan Xiong, Ju Huang, Weixun Wang, Siran Yang, Wenbo Su, Jiamang Wang, Lin Qu, Bo Zheng, Wei Wang, "RollPacker: Mitigating Long-Tail Rollouts for Fast, Synchronous RL Post-Training", *in the Proceedings of the 23rd USENIX Symposium on Networked Systems Design and Implementation (**NSDI ’26**), Renton, WA, USA, May 2026.* (<sup>†</sup>Equal contribution) [[Preprint](../files/nsdi26_rollpacker.pdf)].
 
