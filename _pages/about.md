@@ -16,7 +16,7 @@ My research interests include distributed machine learning systems (**MLSys**) a
 ## News
 - 12/2025: [RollArt](https://arxiv.org/abs/2512.22560v1) and [RollMux](https://arxiv.org/abs/2512.11306) released to arXiv.
 - 12/2025: RollPacker is accepted by **[NSDI 2026](https://www.usenix.org/conference/nsdi26)** 🎉🎉🎉
-- 09/2025: RollPacker released to [arXiv](https://arxiv.org/abs/2509.21009).  
+- 09/2025: [RollPacker](https://arxiv.org/abs/2509.21009) released to arXiv.  
 - 03/2025: Excited to start my internship @ Alibaba with [ROLL](https://alibaba.github.io/ROLL/) team!
 - 03/2023: One paper accepted by **[DSN 2023](https://dsn2023.dei.uc.pt/)** 🎉🎉🎉
 - 11/2021: Excited to start my internship @ MSRA [DKI](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) group!
