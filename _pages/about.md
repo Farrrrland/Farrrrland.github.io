@@ -14,6 +14,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science and En
 My research interests include distributed machine learning systems (**MLSys**) and **AI cloud infrastructure**. My current research focuses on **Reinforcement Learning** and scalable cloud infrastructure for **LLM Post-Training**.
 
 ## News
+- 01/2026: Excited to share our practical experiences on ROLL @ [OpenAnolis x SGLang MeetUp](https://mp.weixin.qq.com/s/hZClWYRiib6jeHN73m9dig), welcome to participate!
 - 12/2025: [RollArt](https://arxiv.org/abs/2512.22560v1) and [RollMux](https://arxiv.org/abs/2512.11306) released to arXiv.
 - 12/2025: RollPacker is accepted by **[NSDI 2026](https://www.usenix.org/conference/nsdi26)** 🎉🎉🎉
 - 09/2025: [RollPacker](https://arxiv.org/abs/2509.21009) released to arXiv.  
