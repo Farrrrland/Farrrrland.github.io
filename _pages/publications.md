@@ -12,7 +12,7 @@ author_profile: true
 
 - Xiaoting Qin, Minghua Ma, **Yuheng Zhao**, Jue Zhang, Chao Du, Yudong Liu, Anjaly Parayil, Chetan Bansal, Saravan Rajmohan, Íñigo Goiri, Eli Cortez, Si Qin, Qingwei Lin, Dongmei Zhang, "[How Different are the Cloud Workloads? Characterizing Large-Scale Private and Public Cloud Workloads](../files/dsn23-workload.pdf)", *in the Proceedings of the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN'23**), Porto, Portugal, June 2023.*
 
-## Tecnical Reports
+## Technical Reports
 
 - ROLL Team, "[Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library](../files/roll_report.pdf)", *June 2025*.
 
