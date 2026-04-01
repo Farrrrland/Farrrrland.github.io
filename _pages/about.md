@@ -25,4 +25,6 @@ My research interests include distributed machine learning systems (**MLSys**) a
 
 
 ## *Personal*
-I enjoy soccer and playing badminton. I am a fan of [FC Bayern München](https://fcbayern.com/). I am also a "Tifosi", a fan of [Scuderia Ferrari HP Formula 1 Team](https://www.ferrari.com/en-EN/formula1).
+I enjoy soccer and playing badminton. I am a fan of [FC Bayern München](https://fcbayern.com/). I am also a Tifosi, supporting [Scuderia Ferrari HP Formula 1 Team](https://www.ferrari.com/en-EN/formula1), especially [Charles Leclerc](https://charlesleclerc.com/en/).
+
+
