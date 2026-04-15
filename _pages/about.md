@@ -11,7 +11,7 @@ redirect_from:
 
 I am a fourth-year Ph.D. candidate in the [Department of Computer Science and Engineering](https://www.cse.ust.hk) at [The Hong Kong University of Science and Technology](http://www.ust.hk), supervised by Prof. [Wei Wang](http://www.cse.ust.hk/~weiwa/). I obtained my B.Sc. degree in Computer Science from [Fudan University](https://www.fudan.edu.cn/main.htm) in 2022.
 
-My research interests include distributed machine learning systems (**MLSys**) and **AI cloud infrastructure**. My current research focuses on **Reinforcement Learning** and scalable cloud infrastructure for **LLM Post-Training**.
+My research interests include distributed machine learning systems (**MLSys**) and **AI cloud infrastructure**. My current research focuses on **Reinforcement Learning**, scalable cloud infrastructure for **LLM Post-Training** and **Agent Operating Systems**.
 
 ## News
 - 02/2026: RollPacker is open-sourced on [GitHub](https://github.com/Farrrrland/RollPacker).
