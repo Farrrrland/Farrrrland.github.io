@@ -28,7 +28,7 @@ My research interests include distributed machine learning systems (**MLSys**) a
 
 ## *Personal*
 - I enjoy soccer and I am a fan of [FC Bayern München](https://fcbayern.com/) for 15+ years. 
-- I love playing badminton. My favorite player is [Maya Taguchi](https://www.instagram.com/maya.taguchi1009/), and yes, this should probably be classified as propaganda 👀.
+- I love playing badminton. My favorite player is [Maya Taguchi 📷](https://www.instagram.com/maya.taguchi1009/), and yes, this should probably be classified as propaganda.
 - I am also a Tifosi, supporting [Scuderia Ferrari HP Formula 1 Team](https://www.ferrari.com/en-EN/formula1), especially [Charles Leclerc](https://charlesleclerc.com/en/).
 
 
