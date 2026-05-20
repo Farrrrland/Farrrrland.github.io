@@ -34,15 +34,3 @@ My research interests include distributed machine learning systems (**MLSys**) a
 - I am also a Tifosi, supporting [Scuderia Ferrari HP Formula 1 Team](https://www.ferrari.com/en-EN/formula1), especially [Charles Leclerc](https://charlesleclerc.com/en/).
 
 
-
-<!-- 你只需要做一件事：
-
-去 Google Analytics 创建一个 GA4 属性，拿到 Measurement ID
-打开 analytics.google.com
-点左下角 管理（Admin） → 创建属性（Create Property）
-填写网站名称，选时区和货币
-选择 Web 平台，输入你的网址 farrrrland.github.io
-创建完成后会给你一个 Measurement ID，格式是 G-XXXXXXXXXX
-把这个 ID 给我，剩下的配置我来改。 -->
-
-
