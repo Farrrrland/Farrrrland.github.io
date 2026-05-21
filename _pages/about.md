@@ -17,7 +17,7 @@ My research interests include distributed machine learning systems (**MLSys**) a
 
 ## News
 - 05/2026: [ROSE](https://arxiv.org/abs/2605.06534) released to arXiv.
-- 04/2026: Two papers conditionally accepted to **[OSDI 2026](https://www.usenix.org/conference/osdi26)** 🎉🎉🎉.
+- 04/2026: Two papers accepted to **[OSDI 2026](https://www.usenix.org/conference/osdi26)** 🎉🎉🎉.
 - 02/2026: RollPacker is open-sourced on [GitHub](https://github.com/Farrrrland/RollPacker).
 - 01/2026: Excited to share our practical experiences on ROLL @ [OpenAnolis x SGLang MeetUp](https://mp.weixin.qq.com/s/hZClWYRiib6jeHN73m9dig), welcome to participate!
 - 12/2025: [RollArt](https://arxiv.org/abs/2512.22560v1) and [RollMux](https://arxiv.org/abs/2512.11306) released to arXiv.
