@@ -24,3 +24,6 @@ author_profile: true
 - <img src="https://img.shields.io/badge/COMP-4651-2C3E50?style=flat" alt="COMP 4651"> Cloud Computing and Big Data Systems, Spring 2023
 - <img src="https://img.shields.io/badge/COMP-3511-2C3E50?style=flat" alt="COMP 3511"> Operating Systems, Fall 2023
 - <img src="https://img.shields.io/badge/COMP-1021-2C3E50?style=flat" alt="COMP 1021"> Introduction to Computer Science, Fall 2024, Fall 2025
+
+## Awards
+MSRA **Stars of Tomorrow** Award of Excellence (Top 10% research intern).
