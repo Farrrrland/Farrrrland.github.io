@@ -22,7 +22,7 @@ My research interests include distributed machine learning systems [ <img src="h
 .timeline::before { content: ''; position: absolute; left: 6px; top: 8px; bottom: 8px; width: 2px; background: #ddd; }
 .timeline li { position: relative; margin-bottom: 12px; line-height: 1.6; }
 .timeline li::before { content: ''; position: absolute; left: -20px; top: 8px; width: 8px; height: 8px; border-radius: 50%; background: #484747; border: 2px solid #fff; box-shadow: 0 0 0 2px #ddd; }
-.timeline .date { display: inline-block; font-size: 0.85em; font-weight: 600; color: #000000; background: #f0f0f0; padding: 1px 8px; border-radius: 4px; margin-right: 6px; font-family: monospace; }
+.timeline .date { display: inline-block; font-size: 0.85em; font-weight: 600; color: #484747; background: #f0f0f0; padding: 1px 8px; border-radius: 4px; margin-right: 6px; font-family: monospace; }
 </style>
 <ul class="timeline">
   <li><span class="date">2026.05</span> <a href="https://arxiv.org/abs/2605.06534">ROSE</a> released to arXiv.</li>
