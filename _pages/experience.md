@@ -26,4 +26,4 @@ author_profile: true
 - <img src="https://img.shields.io/badge/COMP-1021-2C3E50?style=flat" alt="COMP 1021"> Introduction to Computer Science, Fall 2024, Fall 2025
 
 ## Awards
-MSRA **Stars of Tomorrow** Award of Excellence (Top 10% research intern).
+🎖️ MSRA "Stars of Tomorrow" Award of Excellence, 2022 (Top 10% research intern)
