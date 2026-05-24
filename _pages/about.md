@@ -33,9 +33,9 @@ My research interests include distributed machine learning systems [ <img src="h
   <li><span class="date">2025.12</span> <a href="https://arxiv.org/abs/2512.22560v1">RollArt</a> and <a href="https://arxiv.org/abs/2512.11306">RollMux</a> released to arXiv.</li>
   <li><span class="date">2025.12</span> RollPacker is accepted to <b><a href="https://www.usenix.org/conference/nsdi26">NSDI 2026</a></b> 🎉🎉🎉</li>
   <li><span class="date">2025.09</span> <a href="https://arxiv.org/abs/2509.21009">RollPacker</a> released to arXiv.</li>
-  <li><span class="date">2025.03</span> Excited to start my internship @ Alibaba with <a href="https://alibaba.github.io/ROLL/">ROLL</a> team!</li>
+  <!-- <li><span class="date">2025.03</span> Excited to start my internship @ Alibaba with <a href="https://alibaba.github.io/ROLL/">ROLL</a> team!</li>
   <li><span class="date">2023.03</span> One paper accepted to <b><a href="https://dsn2023.dei.uc.pt/">DSN 2023</a></b> 🎉🎉🎉</li>
-  <li><span class="date">2021.11</span> Excited to start my internship @ MSRA <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/">DKI</a> group!</li>
+  <li><span class="date">2021.11</span> Excited to start my internship @ MSRA <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/">DKI</a> group!</li> -->
 </ul>
 
 
