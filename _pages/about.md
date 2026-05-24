@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 excerpt: ""
 author_profile: true
