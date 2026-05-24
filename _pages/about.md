@@ -27,11 +27,11 @@ My research interests include distributed machine learning systems [ <img src="h
 </style>
 <ul class="timeline">
   <li><span class="date">2026.05</span> <a href="https://arxiv.org/abs/2605.06534">ROSE</a> released to arXiv.</li>
-  <li><span class="date">2026.05</span> Two papers accepted to <b><a href="https://www.usenix.org/conference/osdi26">OSDI 2026</a></b> 🎉🎉🎉.</li>
+  <li><span class="date">2026.05</span> Two papers accepted to <b><a href="https://www.usenix.org/conference/osdi26">OSDI 2026</a></b> 🎉.</li>
   <li><span class="date">2026.02</span> RollPacker is open-sourced on <a href="https://github.com/Farrrrland/RollPacker">GitHub</a>.</li>
   <li><span class="date">2026.01</span> Excited to share our practical experiences on ROLL @ <a href="https://mp.weixin.qq.com/s/hZClWYRiib6jeHN73m9dig">OpenAnolis x SGLang MeetUp</a>.</li>
   <li><span class="date">2025.12</span> <a href="https://arxiv.org/abs/2512.22560v1">RollArt</a> and <a href="https://arxiv.org/abs/2512.11306">RollMux</a> released to arXiv.</li>
-  <li><span class="date">2025.12</span> RollPacker is accepted to <b><a href="https://www.usenix.org/conference/nsdi26">NSDI 2026</a></b> 🎉🎉🎉</li>
+  <li><span class="date">2025.12</span> RollPacker is accepted to <b><a href="https://www.usenix.org/conference/nsdi26">NSDI 2026</a></b> 🎉</li>
   <li><span class="date">2025.09</span> <a href="https://arxiv.org/abs/2509.21009">RollPacker</a> released to arXiv.</li>
   <!-- <li><span class="date">2025.03</span> Excited to start my internship @ Alibaba with <a href="https://alibaba.github.io/ROLL/">ROLL</a> team!</li>
   <li><span class="date">2023.03</span> One paper accepted to <b><a href="https://dsn2023.dei.uc.pt/">DSN 2023</a></b> 🎉🎉🎉</li>
@@ -41,7 +41,7 @@ My research interests include distributed machine learning systems [ <img src="h
 
 ## *Personal*
 -  I enjoy soccer and I am a fan of <img src="../images/FC-Bayern-Munchen-v2024-mono.svg" width="20" height="20" style="vertical-align: middle;">[FC Bayern München](https://fcbayern.com/) for 15+ years. 
-- I love playing badminton. My favorite player is 📷[Maya Taguchi](https://www.instagram.com/maya.taguchi1009/), and yes, this should probably be classified as propaganda.
+- I love playing badminton. My favorite player is 📷[Maya Taguchi](https://www.instagram.com/maya.taguchi1009/), and yes, this should be classified as propaganda.
 - I am also a Tifosi, supporting <img src="../images/ferrari.svg" width="20" height="20" style="vertical-align: middle;">[Scuderia Ferrari HP Formula 1 Team](https://www.ferrari.com/en-EN/formula1), especially <img src="../images/Charles_Leclerc_idi5NTk_Dh_1.svg" width="33" height="33" style="vertical-align: middle;"> [Charles Leclerc](https://charlesleclerc.com/en/).
 
 
