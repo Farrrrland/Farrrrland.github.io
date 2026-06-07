@@ -30,7 +30,7 @@ Currently I am a research intern at Alibaba Group, working on the ROLL project (
 </style>
 <ul class="timeline">
   <li><span class="date">2026.05</span> <a href="https://arxiv.org/abs/2605.06534">ROSE</a> released to arXiv.</li>
-  <li><span class="date">2026.05</span> Two papers accepted / conditionally accepted to <b><a href="https://www.usenix.org/conference/osdi26">OSDI 2026</a></b> 🎉.</li>
+  <li><span class="date">2026.05</span> RollArt and Weave accepted accepted to <b><a href="https://www.usenix.org/conference/osdi26">OSDI 2026</a></b> 🎉.</li>
   <li><span class="date">2026.02</span> RollPacker is open-sourced on <a href="https://github.com/Farrrrland/RollPacker">GitHub</a>.</li>
   <li><span class="date">2026.01</span> Excited to share our practical experiences on ROLL @ <a href="https://mp.weixin.qq.com/s/hZClWYRiib6jeHN73m9dig">OpenAnolis x SGLang MeetUp</a>.</li>
   <li><span class="date">2025.12</span> <a href="https://arxiv.org/abs/2512.22560v1">RollArt</a> and <a href="https://arxiv.org/abs/2512.11306">RollMux</a> released to arXiv.</li>
